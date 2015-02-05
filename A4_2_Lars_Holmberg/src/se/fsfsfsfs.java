@@ -5,7 +5,7 @@ import javax.swing.JPanel;
 public class fsfsfsfs extends JPanel {
 
 	/**
-	 * Create the panel.
+	 * Create the panel.fdfdfdf
 	 */
 	public fsfsfsfs() {
 
